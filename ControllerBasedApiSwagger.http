@@ -1,0 +1,6 @@
+@ControllerBasedApiSwagger_HostAddress = http://localhost:5178
+
+GET {{ControllerBasedApiSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
